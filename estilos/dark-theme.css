@@ -1,0 +1,91 @@
+/* Tipografia */
+body,
+button,
+input,
+select,
+textarea {
+    color: #ffffff;
+}
+
+pre {
+    background: #111111;
+}
+
+abbr,
+acronym {
+    border-bottom: 1px dotted #999999;
+}
+
+big {
+    font-size: 125%;
+}
+
+/* Elementos */
+body,
+select option {
+    background: #000000;
+}
+
+button {
+    filter: invert(100%);
+}
+
+hr {
+    background-color: #333333;
+}
+
+/* Navegação: Links */
+a {
+    color: #add8e6;
+}
+
+a:visited {
+    color: #b19cd9;
+}
+
+a:hover,
+a:focus,
+a:active {
+    color: #4169e1;
+}
+
+.content-area {
+    background: #000000;
+}
+
+header.site-header h1,
+header.site-header h1 a {
+    color: #edc8ad;
+}
+
+header.site-header nav .menu,
+header.site-header nav li a {
+    color: #aae8ff;
+}
+
+.blog .site-header,
+.single-post .site-header {
+    background: #001655;
+}
+
+article h1 {
+    color: #acd891;
+}
+
+article .content {
+    color: #999999;
+}
+
+article picture img {
+    border-top: 2px solid #6f66f6;
+    border-bottom: 4px solid #6f66f6;
+}
+
+footer.site-footer {
+    background: #aac0ff;
+}
+
+footer.site-footer,
+footer.site-footer a {
+    color: #123752;
+}
